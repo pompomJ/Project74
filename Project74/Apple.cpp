@@ -100,6 +100,6 @@ int main()
 	if (ret)
 		std::cout << "1個削除" << std::endl;
 
-	//データを全て表示する
+	//データを全て表示
 	myAppleBox.PrintData();
 }
